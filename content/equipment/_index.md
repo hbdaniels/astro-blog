@@ -11,14 +11,19 @@ title: "Equipment"
 | Guiding | PHD2 with an SVBONY SV905C guide scope camera |
 | Capture | NINA, running on a mini PC |
 | Processing | PixInsight, Siril and GraXpert |
-| Filters | None yet |
 
-## At Celestron for service
+## Other telescopes
 
-- Celestron EdgeHD 8
-- Celestron RASA 8
+- **Celestron EdgeHD 8:** in Hank's shop on a Sky-Watcher EQ6-R Pro mount. Visual use only for now. It needs a guiding setup before it can be used for astrophotography.
+- **Celestron RASA 8:** currently at Celestron. A replacement is being sent, and it has been a long wait. The earlier unit, which we used on the Wizard Nebula, had an optical defect that put a flare on every bright star.
 
-Both are away for service right now. When they're back and in use, this page will be updated.
+## Filters
+
+None for the Askar yet.
+
+## Also in the bag
+
+A Nikon D5600 with a 70-300 mm lens, used handheld for the Moon.
 
 ## Conditions
 

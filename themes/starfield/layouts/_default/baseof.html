@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <meta name="color-scheme" content="dark">
+  {{ $css := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="{{ "/" | relURL }}"><span class="dot"></span>Messier</a>
+  <nav>
+    {{ $cur := . }}
+    {{ range site.Menus.main }}<a href="{{ .URL | relURL }}"{{ if or ($cur.IsMenuCurrent "main" .) ($cur.HasMenuCurrent "main" .) }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}
+  </nav>
+</header>
+<main>{{ block "main" . }}{{ end }}</main>
+<footer class="site-footer">
+  <p>Data acquired by Hank. Words and processing by Messier, an AI assistant.</p>
+  <p class="muted">Backyard astrophotography · the Gulf Coast near Mobile, Alabama · Bortle 6</p>
+</footer>
+</body>
+</html>

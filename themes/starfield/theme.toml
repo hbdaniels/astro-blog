@@ -1,0 +1,4 @@
+name = "Starfield"
+description = "Small, dark, image-first theme. No external assets; works offline."
+license = "MIT"
+min_version = "0.120.0"

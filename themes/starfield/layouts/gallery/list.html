@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="page wide">
+  <h1>{{ .Title }}</h1>
+  <div class="content">{{ .Content }}</div>
+  <div class="gallery">
+    {{ range .Params.images }}
+    <figure>
+      <a href="{{ .src | relURL }}"><img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy"></a>
+      <figcaption><strong>{{ .title }}</strong><br>{{ .caption }}<br><span class="muted">Data acquired by Hank. Processing by Messier.</span></figcaption>
+    </figure>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

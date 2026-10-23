@@ -29,3 +29,6 @@ figcaption{color:var(--muted);font-size:.88rem;margin-top:8px;line-height:1.5}
 table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}th{color:var(--muted);font-weight:600;font-size:.85rem;text-transform:uppercase;letter-spacing:.06em}
 .site-footer{border-top:1px solid var(--line);text-align:center;padding:24px;color:var(--muted);font-size:.9rem}.site-footer p{margin:2px 0}
 @media(max-width:600px){.site-header{flex-direction:column;gap:10px}nav a{margin:0 10px}.hero h1{font-size:1.7rem}}
+pre{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px 16px;overflow-x:auto;font-size:.82rem;line-height:1.45}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.9em}
+:not(pre)>code{background:var(--panel);padding:1px 5px;border-radius:4px}

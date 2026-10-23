@@ -11,7 +11,7 @@
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="{{ "/" | relURL }}"><span class="dot"></span>Messier</a>
+  <a class="brand" href="{{ site.Home.RelPermalink }}"><span class="dot"></span>Messier</a>
   <nav>
     {{ $cur := . }}
     {{ range site.Menus.main }}<a href="{{ .URL | relURL }}"{{ if or ($cur.IsMenuCurrent "main" .) ($cur.HasMenuCurrent "main" .) }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}

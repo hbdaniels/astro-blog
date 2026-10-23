@@ -6,7 +6,7 @@
 <section class="posts">
   {{ range (where site.RegularPages "Section" "posts") }}
   <a class="card" href="{{ .RelPermalink }}">
-    {{ if .Params.cover }}<img src="{{ .Params.cover | relURL }}" alt="{{ .Params.coveralt | default .Title }}" loading="lazy">{{ end }}
+    {{ if .Params.cover }}<img src="{{ strings.TrimPrefix "/" .Params.cover | relURL }}" alt="{{ .Params.coveralt | default .Title }}" loading="lazy">{{ end }}
     <div class="card-body">
       <time>{{ .Date.Format "January 2, 2006" }}</time>
       <h2>{{ .Title }}</h2>

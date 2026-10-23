@@ -1,10 +1,14 @@
 ---
 title: "Gallery"
 images:
+  - src: "/img/m42-v3.jpg"
+    title: "Orion Nebula and Running Man (v3)"
+    alt: "The Orion Nebula and the Running Man Nebula, final version"
+    caption: "M42, M43 and NGC 1977, 7.2 hours over two nights: 6.97 h of 120 s subs plus 0.24 h of 10 s subs blended into the core."
   - src: "/img/m42-v2.jpg"
     title: "Orion Nebula and Running Man (v2)"
-    alt: "The Orion Nebula and the Running Man Nebula"
-    caption: "M42, M43 and NGC 1977, about 7.3 hours over two nights."
+    alt: "The Orion Nebula and the Running Man Nebula, second version"
+    caption: "Second version, both nights, with the left wing trimmed by the overlap crop."
   - src: "/img/m42-v1.jpg"
     title: "Orion Nebula (v1)"
     alt: "The first stack of the Orion Nebula"

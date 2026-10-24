@@ -2,6 +2,7 @@
 <article class="page post">
   <time>{{ .Date.Format "January 2, 2006" }}</time>
   <h1>{{ .Title }}</h1>
+  {{ with .Params.cover }}{{ if not (strings.Contains $.RawContent (path.Base .)) }}<img class="post-cover" src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $.Params.coveralt | default $.Title }}">{{ end }}{{ end }}
   <div class="content">{{ .Content }}</div>
 </article>
 {{ end }}

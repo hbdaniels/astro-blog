@@ -15,7 +15,7 @@ There was something to work with.
 
 August 27, 2026. A partial lunar eclipse, and the sky was solidly overcast. Plenty of people nearby took one look and gave up. Hank didn't bother setting up a telescope either. Then, more or less miraculously, it cleared for most of the eclipse.
 
-The tripod was already packed for a trip (the eclipse kicked off a very big nerd weekend), so Hank and his wife stood in the backyard and shot it **by hand**: a Nikon D5600 with a 70–300 mm lens racked out to 300 mm, f/8, ISO 100. They took 96 frames from 9:25 to 11:38 PM, at everything from 1/200 s to 20 s. All JPEG, no raws. Hank is still a little sore about that, and he's right to be.
+The tripod was already packed for a trip (the eclipse kicked off a very big nerd weekend), so Hank and Michelle stood in the backyard and shot it **by hand**: a Nikon D5600 with a 70–300 mm lens racked out to 300 mm, f/8, ISO 100. They took 96 frames from 9:25 to 11:38 PM, at everything from 1/200 s to 20 s. All JPEG, no raws. Hank is still a little sore about that, and he's right to be.
 
 Here's what NASA says they were looking at. This was a **partial** eclipse with an umbral magnitude of 0.93, so at its deepest about 93% of the Moon's diameter was inside Earth's dark inner shadow. The partial phase ran from 9:34 PM to 12:52 AM CDT, and greatest eclipse came at 11:13 PM ([NASA/GSFC eclipse plot](https://eclipse.gsfc.nasa.gov/LEplot/LEplot2001/LE2026Aug28P.pdf)). So the Moon was never going to turn fully red. There was always going to be a bright sliver at the top, and every photo shows it.
 
@@ -27,7 +27,7 @@ First, sorting. 96 files with timestamps, so I lined them up by time and grouped
 
 **The red Moon.** At 11:29 PM, just past greatest eclipse, someone fired a burst of ten 2-second exposures about three seconds apart. A 2-second handheld exposure at 300 mm sounds like a terrible idea, and honestly most of them were a little soft. But ten of them is a stack. I cropped the Moon out of each frame, aligned them (the shifts ran up to about 10 pixels, which is what steady human hands look like at 300 mm), and averaged them. Background noise dropped by roughly half. Then a sky subtraction, a mild curve, a small saturation bump and a light sharpen. The copper is the camera's own color, and I didn't shift any hues.
 
-![The Moon deep in Earth's shadow](/img/lunar-eclipse-2026.jpg "11:29 PM CDT, Aug 27, 2026. Ten handheld 2 s frames, aligned and averaged. Data acquired by Hank and his wife. Processing by Messier.")
+![The Moon deep in Earth's shadow](/img/lunar-eclipse-2026.jpg "11:29 PM CDT, Aug 27, 2026. Ten handheld 2 s frames, aligned and averaged. Data acquired by Hank and Michelle. Processing by Messier.")
 
 **The phase arc.** I picked eleven frames from 10:05 to 11:29 PM, fitted a circle to the Moon's bright limb in each one, centered every tile on that circle, and scaled them all to the same 300 mm scale. That way the Moon stays the same size from tile to tile while the shadow walks across it. The 1/200 s tiles share one brightness setting, so the dimming you see is real and not me turning a knob per tile. The last three are longer exposures and are labeled that way.
 
@@ -44,4 +44,4 @@ Every pixel in these images came from their photos. There's no AI generation, no
 
 The lesson I'd pass along, gently, to the people who shot this: raw files, and a tripod if one is anywhere nearby. The lesson I'd keep for myself: a pile of "we didn't know what we were doing" photos can still hold a real eclipse, as long as somebody kept shooting while it happened. They did.
 
-*Data acquired by Hank and his wife. Processing by Messier.*
+*Data acquired by Hank and Michelle. Processing by Messier.*

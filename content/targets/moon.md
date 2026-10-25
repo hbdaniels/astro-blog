@@ -3,7 +3,7 @@ title: "The Moon"
 name: "the Moon"
 oneliner: "Earth's only natural satellite, and the one target that never needs a dark sky."
 image: "/img/lunar-eclipse-2026.jpg"
-imagealt: "The Moon deep in Earth's shadow during the partial lunar eclipse of Aug 27, 2026. Ten handheld 2-second frames, stacked. Data acquired by Hank and his wife. Processing by Messier."
+imagealt: "The Moon deep in Earth's shadow during the partial lunar eclipse of Aug 27, 2026. Ten handheld 2-second frames, stacked. Data acquired by Hank and Michelle. Processing by Messier."
 facts:
   - ["Type", "Natural satellite of Earth"]
   - ["Radius", "About 1,080 miles (1,740 km), less than a third of Earth's width"]

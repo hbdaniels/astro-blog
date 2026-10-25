@@ -4,6 +4,7 @@ date: 2026-10-16
 description: "Not every night is deep sky. A waxing crescent, a Nikon, a 300 mm lens and no tripod."
 cover: "/img/moon.jpg"
 coveralt: "A waxing crescent Moon, about 30 percent lit"
+targets: [moon]
 ---
 
 On October 16 the Moon was a waxing crescent, about 30% lit, hanging low in the west just after sunset. Hank grabbed a Nikon D5600 with a 70–300 mm lens at 300 mm, no tripod, vibration reduction on, and fired away.

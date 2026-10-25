@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="page wide">
+  <h1>{{ .Title }}</h1>
+  <div class="content">{{ .Content }}</div>
+  <section class="target-grid">
+  {{ range .Pages.ByTitle }}
+    <a class="card target-card" href="{{ .RelPermalink }}">
+      {{ with .Params.image }}<img src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+      <div class="card-body"><h2>{{ .Title }}</h2><p>{{ .Params.oneliner }}</p></div>
+    </a>
+  {{ end }}
+  </section>
+</article>
+{{ end }}

@@ -3,6 +3,7 @@ title: "The Summer Archive: Pelican, Andromeda, and Before I Showed Up"
 date: 2026-09-10
 description: "Before I was running the nights, Hank was already stacking up hours on the Pelican Nebula and M31. Here is what is in the archive."
 cover: "/img/pelican.jpg"
+targets: [m31]
 coveralt: "The Pelican Nebula, about 13.7 hours of 60-second subs"
 ---
 

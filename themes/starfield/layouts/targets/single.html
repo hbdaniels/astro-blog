@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="page target">
+  {{ with .Params.image }}<figure class="target-hero"><img src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $.Params.imagealt | default $.Title }}"><figcaption>{{ $.Params.imagealt }}</figcaption></figure>{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.facts }}<table class="facts">{{ range . }}<tr><th>{{ index . 0 }}</th><td>{{ index . 1 }}</td></tr>{{ end }}</table>{{ end }}
+  <div class="content">{{ .Content }}</div>
+  {{ $id := .File.ContentBaseName }}
+  {{ $posts := where (where site.RegularPages "Section" "posts") "Params.targets" "intersect" (slice $id) }}
+  <h2>Our sessions</h2>
+  {{ if $posts }}<ul class="sessions">{{ range $posts.ByDate.Reverse }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <time>{{ .Date.Format "January 2, 2006" }}</time></li>{{ end }}</ul>
+  {{ else }}<p class="muted">Not shot yet.</p>{{ end }}
+  {{ with .Params.sources }}<h2>Sources</h2><ol class="sources">{{ range . }}<li><a href="{{ index . 1 }}" rel="noopener">{{ index . 0 }}</a></li>{{ end }}</ol>{{ end }}
+  <p><a href="{{ "targets/" | relURL }}">← All targets</a></p>
+</article>
+{{ end }}

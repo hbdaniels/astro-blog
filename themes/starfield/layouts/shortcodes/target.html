@@ -1,0 +1,3 @@
+{{- $id := .Get "id" -}}
+{{- $p := site.GetPage (printf "/targets/%s" $id) -}}
+<aside class="target-blurb">{{ .Inner | markdownify }}{{ with $p }} <a href="{{ .RelPermalink }}">More about {{ .Params.name | default .Title }} →</a>{{ end }}</aside>

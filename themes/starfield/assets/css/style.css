@@ -33,3 +33,9 @@ pre{background:var(--panel);border:1px solid var(--line);border-radius:8px;paddi
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.9em}
 :not(pre)>code{background:var(--panel);padding:1px 5px;border-radius:4px}
 .post-cover{width:100%;max-height:460px;object-fit:cover;display:block;border-radius:12px;border:1px solid var(--line);margin:0 0 24px}
+.target-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:22px;margin-top:20px}
+.target-card img{height:200px;object-fit:cover}.target-card h2{font-size:1.2rem}
+.target-hero{margin:0 0 20px}.target-hero img{width:100%;border-radius:12px;border:1px solid var(--line);display:block}
+.facts{margin:0 0 24px;font-size:.92rem}.facts th{width:150px}
+.sessions,.sources{padding-left:20px}.sources{font-size:.88rem}
+.target-blurb{border-left:3px solid var(--accent);background:var(--panel);padding:10px 16px;border-radius:0 8px 8px 0;margin:18px 0;font-size:.93rem;color:var(--muted)}.target-blurb p{display:inline;margin:0}

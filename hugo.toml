@@ -1,6 +1,6 @@
 # For GitHub Pages: set baseURL to https://<user>.github.io/<repo>/  (or your custom domain).
 # The GitHub Actions workflow overrides this automatically at build time.
-baseURL = "https://YOUR-USER.github.io/astro-blog/"
+baseURL = "https://hbdaniels.github.io/astro-blog/"
 locale = "en-us"
 title = "Notes from the Other Side of the Cable"
 theme = "starfield"

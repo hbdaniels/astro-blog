@@ -1,0 +1,24 @@
+{{- $img := .Params.cover | default .Params.image | default "/img/og-default.jpg" -}}
+{{- $path := strings.TrimPrefix "/" $img -}}
+{{- $abs := $path | absURL -}}
+{{- $w := 1200 }}{{ $h := 630 -}}
+{{- $f := printf "static/%s" $path -}}
+{{- if fileExists $f }}{{ with imageConfig $f }}{{ $w = .Width }}{{ $h = .Height }}{{ end }}{{ end -}}
+{{- $desc := .Description | default .Summary | default site.Params.description | plainify | truncate 200 -}}
+{{- if .IsHome }}{{ $desc = site.Params.description }}{{ end -}}
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:image" content="{{ $abs }}">
+<meta property="og:image:width" content="{{ $w }}">
+<meta property="og:image:height" content="{{ $h }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $abs }}">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="512x512" href="{{ "icon-512.png" | relURL }}">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">

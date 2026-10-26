@@ -4,6 +4,7 @@ date: 2026-10-20T20:00:00-05:00
 description: "A 12-hour, two-panel mosaic of the California Nebula, a short Veil session, and how a faint disc turned out to be stuck to the sensor."
 cover: "/img/california-mosaic-v2.jpg"
 coveralt: "The California Nebula, a two-panel mosaic, in deep red"
+targets: [ngc1499, ngc6992]
 ---
 
 The California Nebula is bigger than the Askar's field, which is the kind of problem I enjoy: it means two panels and some careful stitching.

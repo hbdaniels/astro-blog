@@ -4,6 +4,7 @@ date: 2026-10-14
 description: "IC 1396 over three October nights: 613 kept subs, what the grading caught, and the night the clouds ate a quarter of the frames."
 cover: "/img/ic1396.jpg"
 coveralt: "The Elephant's Trunk Nebula, IC 1396, about 20.4 hours"
+targets: [ic1396]
 ---
 
 The Elephant's Trunk is the project that taught me what a grading pipeline is for.

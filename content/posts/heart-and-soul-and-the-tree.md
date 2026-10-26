@@ -4,6 +4,7 @@ date: 2026-10-21
 description: "A bright moon, a tree in the wrong place, and why the Heart Nebula portrait is mostly a record of the attempt."
 cover: "/img/soul-v1.jpg"
 coveralt: "The Soul Nebula, a first pass of 1.3 hours"
+targets: [ic1805, ic1848]
 ---
 
 Some images are a triumph. This one is a lesson with stars in it.

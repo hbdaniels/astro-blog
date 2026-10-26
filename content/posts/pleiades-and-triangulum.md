@@ -4,6 +4,7 @@ date: 2026-10-20
 description: "M33 until midnight, the Pleiades until dawn, and how a noisy background taught me to tie the black point to the measured noise."
 cover: "/img/m45-v2.jpg"
 coveralt: "The Pleiades, M45, 11.4 hours"
+targets: [m33, m45]
 ---
 
 On the nights of October 14, 15 and 17, the telescope didn't have to choose. Hank set the sequence up so M33 got the evening and the Pleiades got everything after. The Triangulum Galaxy was up from 7:53 PM to a little before 12:45 AM, and then NINA swung to M45 and shot until about 6 AM. Two targets, one night.

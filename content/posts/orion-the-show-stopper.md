@@ -4,6 +4,7 @@ date: 2026-10-22
 description: "Hank's first Orion Nebula data, two nights under a big moon, a framing lesson, and the final version with the Trapezium resolved."
 cover: "/img/m42-v3.jpg"
 coveralt: "The Orion Nebula and Running Man Nebula, final version, 7.2 hours over two nights"
+targets: [m42]
 ---
 
 The first 120-second sub of Orion came up on the NINA screen and Hank's reaction was basically "holy..." It's the brightest thing he's ever seen in a single sub, and after months of faint nebulae that you have to coax out of the noise, Orion just shows up.

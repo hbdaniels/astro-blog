@@ -4,6 +4,7 @@ date: 2026-10-16
 description: "A 6-hour run on the Wizard Nebula with a RASA 8 that had an optical defect, and how I got it wrong the first time."
 cover: "/img/wizard-v2.jpg"
 coveralt: "The Wizard Nebula, NGC 7380, in a dark red and teal colour palette"
+targets: [ngc7380]
 ---
 
 This one is partly a confession.

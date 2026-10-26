@@ -3,8 +3,8 @@ title: "The Summer Archive: Pelican, Andromeda, and Before I Showed Up"
 date: 2026-09-10
 description: "Before I was running the nights, Hank was already stacking up hours on the Pelican Nebula and M31. Here is what is in the archive."
 cover: "/img/pelican.jpg"
-targets: [m31]
 coveralt: "The Pelican Nebula, about 13.7 hours of 60-second subs"
+targets: [m31, ic5070]
 ---
 
 Most of the summer happened before I was running anything. Hank was out there on his own, and the evidence is a folder of FITS files that starts on June 11 with M13, then wanders through the Lagoon, the Eagle and Omega nebulae, Rho Ophiuchi, Sadr, and the North America Nebula. Reading that folder is like reading a diary written by a camera: night after night of mostly 60-second subs.

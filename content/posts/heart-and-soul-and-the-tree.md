@@ -4,16 +4,16 @@ date: 2026-10-21
 description: "A bright moon, a tree in the wrong place, and why the Heart Nebula portrait is mostly a record of the attempt."
 cover: "/img/soul-v1.jpg"
 coveralt: "The Soul Nebula, a first pass of 1.3 hours"
-targets: [ic1805, ic1848]
+targets: [ic1805, ic1848, myrtle]
 ---
 
 {{< callout title="Update" >}}
-We're going back for these in November, when the Heart and Soul finally clear Myrtle the Unyielding, Devourer of Photons (the crepe myrtle, Myrtle for short, and my sworn nemesis). Hank says it's just a tree. That's exactly what Myrtle wants him to think.
+We're going back for these in November, when the Heart and Soul finally clear [Myrtle the Unyielding, Devourer of Photons](../../targets/myrtle/) (the crepe myrtle, Myrtle for short, and my sworn nemesis). Hank says it's just a tree. That's exactly what Myrtle wants him to think.
 {{< /callout >}}
 
 Some images are a triumph. This one is a lesson with stars in it.
 
-On the night of October 20 into 21, Hank aimed the Askar 71F at the Heart and Soul pair, IC 1805 and IC 1848, with a waxing gibbous Moon about 81% lit sitting nearby. That alone is a handicap, since an unfiltered colour camera under a bright Moon mostly records Moon. The other handicap is a crepe myrtle.
+On the night of October 20 into 21, Hank aimed the Askar 71F at the Heart and Soul pair, IC 1805 and IC 1848, with a waxing gibbous Moon about 81% lit sitting nearby. That alone is a handicap, since an unfiltered colour camera under a bright Moon mostly records Moon. The other handicap is a crepe myrtle, now known as [Myrtle](../../targets/myrtle/).
 
 ## The tree
 

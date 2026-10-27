@@ -4,5 +4,11 @@
   <h1>{{ .Title }}</h1>
   {{ with .Params.cover }}{{ if not (strings.Contains $.RawContent (path.Base .)) }}<img class="post-cover" src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $.Params.coveralt | default $.Title }}">{{ end }}{{ end }}
   <div class="content">{{ .Content }}</div>
+  {{ with .Params.targets }}<section class="post-targets">
+    {{ range . }}{{ with site.GetPage (printf "/targets/%s" .) }}<a class="post-target-card" href="{{ .RelPermalink }}">
+      {{ with .Params.image }}<img src="{{ strings.TrimPrefix "/" . | relURL }}" alt="" loading="lazy">{{ end }}
+      <span><small>Target page</small><strong>More about {{ replaceRE "^The " "the " .Title }}</strong></span><em>→</em>
+    </a>{{ end }}{{ end }}
+  </section>{{ end }}
 </article>
 {{ end }}

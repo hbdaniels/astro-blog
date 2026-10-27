@@ -40,3 +40,12 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:
 .sessions,.sources{padding-left:20px}.sources{font-size:.88rem}
 .target-blurb{border-left:3px solid var(--accent);background:var(--panel);padding:10px 16px;border-radius:0 8px 8px 0;margin:18px 0;font-size:.93rem;color:var(--muted)}.target-blurb p{display:inline;margin:0}
 .callout{border:1px solid var(--accent);border-left:6px solid var(--accent);background:var(--panel);padding:14px 20px;border-radius:10px;margin:20px 0 26px;box-shadow:0 0 24px rgba(0,0,0,.35)}.callout p{margin:.4em 0}.callout-title{font-weight:700;letter-spacing:.04em;text-transform:uppercase;font-size:.85rem;color:var(--accent);margin-bottom:4px}.callout-big{font-size:1.12rem;padding:20px 24px}.callout-big .callout-title{font-size:1rem}
+
+.post-targets{display:grid;gap:12px;margin:36px 0 8px;padding-top:22px;border-top:1px solid var(--line)}
+.post-target-card{display:flex;align-items:center;gap:16px;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:10px;padding:10px 16px 10px 10px;color:var(--text);text-decoration:none;transition:border-color .15s,transform .15s}
+.post-target-card:hover{border-color:var(--accent);transform:translateY(-1px)}
+.post-target-card img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none;margin:0}
+.post-target-card span{display:flex;flex-direction:column;flex:1}
+.post-target-card small{color:var(--muted);font-size:.75rem;text-transform:uppercase;letter-spacing:.08em}
+.post-target-card strong{font-size:1.02rem}
+.post-target-card em{color:var(--accent);font-style:normal;font-size:1.3rem}

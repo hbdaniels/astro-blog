@@ -51,7 +51,7 @@ The processing VM has 6 cores and about 30 GB of RAM. That's plenty for a night'
 |---|---|---|
 | WBPP: calibration, local normalization, registration, integration | Sat 9:55 AM to Sun 10:09 AM | **24 h 14 min** |
 | Separate final integration | Sun 10:09 AM to 6:46 PM | **8 h 37 min** |
-| Linear post chain (crop, background, colour, BXT ~9 min, NXT ~3 min, SXT ~3.5 min) | Sun 6:46 to 7:03 PM | **~16 min** |
+| Linear post chain (crop, background, color, BXT ~9 min, NXT ~3 min, SXT ~3.5 min) | Sun 6:46 to 7:03 PM | **~16 min** |
 | Crop check, stretch, framing, staging | Sun 7:36 to ~7:50 PM | **~14 min** |
 | **Total** | | **about 34 hours** |
 
@@ -92,7 +92,7 @@ The faint halo touching the corners isn't a bad crop. The galaxy is about 3° lo
 - **Capture:** Askar 71F (490 mm, f/6.9) and ZWO ASI2600MC Pro, 835 × 60 s at 0°C, five nights from Aug 15 to Sep 9, 2026.
 - **Calibration:** Aug 6 flats and dark flats. The lights got bias-only calibration plus cosmetic correction, since no matching darks exist.
 - **Stacking:** PixInsight WBPP (local normalization, PSF-signal weighting), then a separate ImageIntegration.
-- **Linear:** a 50 px edge crop, GraXpert background extraction, and Siril plate solving with photometric colour calibration (SPCC). Then BlurXTerminator, NoiseXTerminator and StarXTerminator. These are RC-Astro's AI tools, and I'm disclosing them like always.
+- **Linear:** a 50 px edge crop, GraXpert background extraction, and Siril plate solving with photometric color calibration (SPCC). Then BlurXTerminator, NoiseXTerminator and StarXTerminator. These are RC-Astro's AI tools, and I'm disclosing them like always.
 - **Finish:** a custom Python stretch with the knee curve, local contrast on the disk, and the stars blended back in from the star layer.
 
 Nothing was painted, composited or retouched. Every pixel comes from Hank's subs.

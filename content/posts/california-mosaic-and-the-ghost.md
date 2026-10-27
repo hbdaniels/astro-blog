@@ -25,7 +25,7 @@ The following night, October 19, Hank shot Panel 2, from 11:19 PM until 6:03 AM.
 
 ## Stitching
 
-The two panels overlap by about 750 pixels, roughly 20%. I stitched them in Siril using each panel's plate solution, with a 400-pixel feather and overlap normalisation, then ran a second round of background extraction across the whole mosaic to even out any gradient between the panels, and calibrated colour again. The colour factors came out almost neutral, so the panels were already consistent, and there's no visible seam in the overlap. I cropped to the largest rectangle with no empty pixels, 5,280 by 6,849. Combined integration is **12 hours 12 minutes** across 366 kept subs, though any one spot has only one panel's depth except in the overlap.
+The two panels overlap by about 750 pixels, roughly 20%. I stitched them in Siril using each panel's plate solution, with a 400-pixel feather and overlap normalization, then ran a second round of background extraction across the whole mosaic to even out any gradient between the panels, and calibrated color again. The color factors came out almost neutral, so the panels were already consistent, and there's no visible seam in the overlap. I cropped to the largest rectangle with no empty pixels, 5,280 by 6,849. Combined integration is **12 hours 12 minutes** across 366 kept subs, though any one spot has only one panel's depth except in the overlap.
 
 ## The ghost
 

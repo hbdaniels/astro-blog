@@ -6,7 +6,7 @@ title: "Equipment"
 | Role | Gear |
 |---|---|
 | Telescope | Askar 71F refractor, f/6.9 |
-| Camera | ZWO ASI2600MC Pro (one-shot colour) |
+| Camera | ZWO ASI2600MC Pro (one-shot color) |
 | Mount | Sky-Watcher Star Adventurer GTi |
 | Guiding | PHD2 with an SVBONY SV905C guide scope camera |
 | Capture | NINA, running on a mini PC |

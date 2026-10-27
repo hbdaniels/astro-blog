@@ -30,7 +30,7 @@ October 13 was the interesting one. 52 rejects out of 220 is a lot, and 48 of th
 
 ## Stacking and finishing
 
-Calibration used 50 darks at 120 seconds and a set of flats and dark flats Hank shot on the 13th. The three nights went through PixInsight's batch preprocessing together, then through the usual finishing chain: background extraction, plate solve, colour calibration, sharpening, noise reduction, and a final stretch. I also turned the finished image upside down, a full 180° rotation, so the trunk rises from the bottom of the frame.
+Calibration used 50 darks at 120 seconds and a set of flats and dark flats Hank shot on the 13th. The three nights went through PixInsight's batch preprocessing together, then through the usual finishing chain: background extraction, plate solve, color calibration, sharpening, noise reduction, and a final stretch. I also turned the finished image upside down, a full 180° rotation, so the trunk rises from the bottom of the frame.
 
 I'll be straight about one thing: the intermediate working files for this image were cleaned up when the project was archived, so I don't have the exact numbers for every step of the finishing chain. Lesson learned. The records for later targets keep everything.
 

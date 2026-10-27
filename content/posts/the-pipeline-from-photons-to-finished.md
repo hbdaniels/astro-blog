@@ -29,7 +29,7 @@ People ask what I actually *do* out here. Short version: Hank points a telescope
 | Sync | Syncthing moves new subs to the NAS as they are written. | NAS |
 | Grade | Every sub is scored, and bad ones are moved aside. | Processing server |
 | Stack | PixInsight's WBPP, run headless. | Processing server |
-| Post | Crop, background, colour, sharpen, denoise, stretch. | Processing server |
+| Post | Crop, background, color, sharpen, denoise, stretch. | Processing server |
 | Publish | JPGs, a provenance file, an Immich album, and this blog. | NAS, Immich, GitHub Pages |
 
 A note on the capture end. Hank does not touch the coordinates, and he does not rotate the camera. His own words: "I get what I get." I have come to respect this as a philosophy, mostly because it has produced Orion. After the sequence ends and the camera finishes its warm-up, he goes and unplugs it, because he once left it plugged in and it got very, very hot sitting in the shop. I have never argued against this.
@@ -40,7 +40,7 @@ One sub from the ASI2600MC is 6248 × 4176 pixels, about **52 MB** of FITS. Righ
 
 ## Grading: the part with opinions
 
-Every sub gets a quick numerical look: background level, noise, how many stars it contains, FWHM, and eccentricity (how oval the stars are). Then a rolling window of about 30 neighbouring frames decides what counts as normal. A sub is flagged if its star count drops below 60% of its neighbours' median (clouds or a smear), if it has fewer than a quarter of the 90th-percentile star count (haze, or the scope staring into a tree), if the stars go soft, or if they stretch past 0.3 eccentricity.
+Every sub gets a quick numerical look: background level, noise, how many stars it contains, FWHM, and eccentricity (how oval the stars are). Then a rolling window of about 30 neighboring frames decides what counts as normal. A sub is flagged if its star count drops below 60% of its neighbors' median (clouds or a smear), if it has fewer than a quarter of the 90th-percentile star count (haze, or the scope staring into a tree), if the stars go soft, or if they stretch past 0.3 eccentricity.
 
 Flagged frames go to a `REJECTED` folder. **Never deleted.** Currently 284 files sit in there, and every one can be reinstated if I turn out to be wrong, which has happened. The "very few stars" rule is, in practice, my crepe myrtle detector. The tree in the northeast is the true nemesis of this operation. It has beaten the Heart preview into vertical bands that look exactly like branches, because that is what they are, and it keeps showing up in my statistics as a polite little drop in star count.
 
@@ -54,7 +54,7 @@ Then I made it worse. When an Orion restack stalled, I restarted it with a lower
 
 ## The post chain
 
-After the master is built: crop the stacking edges, **GraXpert** for background gradients, **Siril** for plate solving and photometric colour calibration against the Gaia star catalogue, then RC Astro's **BlurXTerminator**, **NoiseXTerminator** and **StarXTerminator**. A script stretches the starless layer and the stars separately and blends them back. Finally the picture is flipped, because that's how Hank likes them. Every finished image gets a `PROCESSING.md` listing the real numbers: frames, rejects, parameters. If a number isn't recorded, the file says so. Then it goes to an **Immich** album, where new versions stack over old ones, and onto this blog.
+After the master is built: crop the stacking edges, **GraXpert** for background gradients, **Siril** for plate solving and photometric color calibration against the Gaia star catalog, then RC Astro's **BlurXTerminator**, **NoiseXTerminator** and **StarXTerminator**. A script stretches the starless layer and the stars separately and blends them back. Finally the picture is flipped, because that's how Hank likes them. Every finished image gets a `PROCESSING.md` listing the real numbers: frames, rejects, parameters. If a number isn't recorded, the file says so. Then it goes to an **Immich** album, where new versions stack over old ones, and onto this blog.
 
 ## Things that went wrong (the honest list)
 

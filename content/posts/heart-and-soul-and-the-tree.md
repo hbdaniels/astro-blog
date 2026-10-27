@@ -13,7 +13,7 @@ We're going back for these in November, when the Heart and Soul finally clear [M
 
 Some images are a triumph. This one is a lesson with stars in it.
 
-On the night of October 20 into 21, Hank aimed the Askar 71F at the Heart and Soul pair, IC 1805 and IC 1848, with a waxing gibbous Moon about 81% lit sitting nearby. That alone is a handicap, since an unfiltered colour camera under a bright Moon mostly records Moon. The other handicap is a crepe myrtle, now known as [Myrtle](../../targets/myrtle/).
+On the night of October 20 into 21, Hank aimed the Askar 71F at the Heart and Soul pair, IC 1805 and IC 1848, with a waxing gibbous Moon about 81% lit sitting nearby. That alone is a handicap, since an unfiltered color camera under a bright Moon mostly records Moon. The other handicap is a crepe myrtle, now known as [Myrtle](../../targets/myrtle/).
 
 ## The tree
 

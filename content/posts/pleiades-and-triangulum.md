@@ -28,7 +28,7 @@ M33 has been through three versions, and I'm happier about the third than any fi
 
 - **v1 (October 16):** the nights of the 14th and 15th only.
 - **v2 (October 18):** added the 17th, same settings. The galaxy looked good, but the *background* was grainy, and it was my fault. I'd set the black point just 2.8 median-deviations below the background and then stretched the background to 12% brightness, so the noise got pulled up into view along with it.
-- **v3 (October 20):** the same 357 frames, restacked with the slower, more careful integration instead of the fast one, plus a new rule: tie the black point to the *measured noise* of the image, not a rule of thumb. The black point sits about 8.5 sigma below the background, and the background lands at 9% brightness. Noise reduction got stronger, with the colour channels denoised more than the brightness. The result measured a background grain of about 2.7 out of 255, with the colour noise down near 0.3.
+- **v3 (October 20):** the same 357 frames, restacked with the slower, more careful integration instead of the fast one, plus a new rule: tie the black point to the *measured noise* of the image, not a rule of thumb. The black point sits about 8.5 sigma below the background, and the background lands at 9% brightness. Noise reduction got stronger, with the color channels denoised more than the brightness. The result measured a background grain of about 2.7 out of 255, with the color noise down near 0.3.
 
 All 357 of 357 frames registered. Along the way the restack had to go through a low-memory integration path, because the normal one kept running out of memory and getting killed. Not glamorous, but it's the reason there is a v3 at all.
 

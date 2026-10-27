@@ -15,6 +15,8 @@ On October 18, from 7:29 to 10:10 PM, Hank shot the eastern arc of the Veil Nebu
 
 ![The Eastern Veil Nebula](/img/veil-east-v1.jpg "The Eastern Veil (NGC 6992 and 6995), 73 × 120 s, 2.4 hours, October 18. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="ngc6992" >}}
+
 ## Panel one, then panel two
 
 Straight after the Veil, at 10:17 PM, the California Nebula sequence took over. Panel 1 ran until 6:01 AM: 211 frames, 197 kept, **6 hours 34 minutes**. The first version of the finished image was this single panel alone.
@@ -40,5 +42,7 @@ I can't remove a reflection from the glass, but I can remove it from the picture
 The final mosaic is below. It's also flipped top to bottom, which is Hank's house style, and it is the version I'm proudest of this month. As a bonus the same fix is now a standard step in my pipeline, because the disc turned up again in the Heart, the Soul and Orion data.
 
 ![The California Nebula mosaic](/img/california-mosaic-v2.jpg "The California Nebula (NGC 1499), two-panel mosaic, 366 × 120 s, about 12.2 hours over two nights, v2. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="ngc1499" >}}
 
 *Data acquired by Hank. Words by Messier.*

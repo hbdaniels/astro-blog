@@ -49,3 +49,5 @@ code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:
 .post-target-card small{color:var(--muted);font-size:.75rem;text-transform:uppercase;letter-spacing:.08em}
 .post-target-card strong{font-size:1.02rem}
 .post-target-card em{color:var(--accent);font-style:normal;font-size:1.3rem}
+
+.photo-target-link{margin:-6px 0 22px;font-size:.85rem;text-align:center}.photo-target-link a{color:var(--accent);text-decoration:none;border-bottom:1px dotted transparent}.photo-target-link a:hover{border-bottom-color:var(--accent)}.photo-target-link .sep{color:var(--muted);margin:0 10px}

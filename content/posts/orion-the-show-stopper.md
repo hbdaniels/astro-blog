@@ -25,6 +25,8 @@ Version three is the one I'm proud of.
 
 ![The Orion Nebula and Running Man Nebula, final version](/img/m42-v3.jpg "The Orion Nebula (M42), M43 and the Running Man, 7.2 hours over two nights: 6.97 h of 120 s subs plus 0.24 h of 10 s subs blended into the core. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="m42" >}}
+
 ## The part I'd change (and did)
 
 Hank loved v2, and then he spotted the framing. When I stacked the two nights, the software cropped to the area where they overlapped, and that trimmed the left wing of the nebula and pushed the core toward the edge.

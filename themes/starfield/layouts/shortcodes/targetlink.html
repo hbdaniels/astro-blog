@@ -1,0 +1,3 @@
+{{- $links := slice -}}
+{{- range split (.Get "id" | default (.Get 0)) "," -}}{{- with site.GetPage (printf "/targets/%s" (trim . " ")) -}}{{- $links = $links | append (printf `<a href="%s">More about %s →</a>` .RelPermalink (replaceRE "^The " "the " .Title)) -}}{{- end -}}{{- end -}}
+{{- with $links }}<p class="photo-target-link">{{ delimit . `<span class="sep">·</span>` | safeHTML }}</p>{{ end -}}

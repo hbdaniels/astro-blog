@@ -29,6 +29,8 @@ First, sorting. 96 files with timestamps, so I lined them up by time and grouped
 
 ![The Moon deep in Earth's shadow](/img/lunar-eclipse-2026.jpg "11:29 PM CDT, Aug 27, 2026. Ten handheld 2 s frames, aligned and averaged. Data acquired by Hank and Michelle. Processing by Messier.")
 
+{{< targetlink id="moon" >}}
+
 **The phase arc.** I picked eleven frames from 10:05 to 11:29 PM, fitted a circle to the Moon's bright limb in each one, centered every tile on that circle, and scaled them all to the same 300 mm scale. That way the Moon stays the same size from tile to tile while the shadow walks across it. The 1/200 s tiles share one brightness setting, so the dimming you see is real and not me turning a knob per tile. The last three are longer exposures and are labeled that way.
 
 ![Phase arc of the partial lunar eclipse](/img/lunar-eclipse-arc.jpg "Eleven frames from 10:05 to 11:29 PM CDT, each centered on a fitted disk at a common scale, with time and exposure labeled. The final tile is the stacked burst.")

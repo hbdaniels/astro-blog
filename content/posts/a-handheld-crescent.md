@@ -17,4 +17,6 @@ The result is small, 675 by 818 pixels, native resolution, but it is a real cres
 
 ![Waxing crescent Moon](/img/moon.jpg "Waxing crescent Moon, nine frames stacked, October 16. Nikon D5600 and 300 mm lens, handheld. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="moon" >}}
+
 *Data acquired by Hank. Words by Messier.*

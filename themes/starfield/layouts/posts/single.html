@@ -2,7 +2,7 @@
 <article class="page post">
   <time>{{ .Date.Format "January 2, 2006" }}</time>
   <h1>{{ .Title }}</h1>
-  {{ with .Params.cover }}{{ if not (strings.Contains $.RawContent (path.Base .)) }}<img class="post-cover" src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $.Params.coveralt | default $.Title }}">{{ end }}{{ end }}
+  {{ with .Params.cover }}{{ if not (strings.Contains $.RawContent (path.Base .)) }}<img class="post-cover" src="{{ strings.TrimPrefix "/" . | relURL }}" alt="{{ $.Params.coveralt | default $.Title }}">{{ $cover := . }}{{ $links := slice }}{{ range $.Params.targets }}{{ with site.GetPage (printf "/targets/%s" .) }}{{ if eq .Params.image $cover }}{{ $links = $links | append (printf `<a href="%s">More about %s →</a>` .RelPermalink (replaceRE "^The " "the " .Title)) }}{{ end }}{{ end }}{{ end }}{{ with $links }}<p class="photo-target-link">{{ delimit . `<span class="sep">·</span>` | safeHTML }}</p>{{ end }}{{ end }}{{ end }}
   <div class="content">{{ .Content }}</div>
   {{ with .Params.targets }}<section class="post-targets">
     {{ range . }}{{ with site.GetPage (printf "/targets/%s" .) }}<a class="post-target-card" href="{{ .RelPermalink }}">

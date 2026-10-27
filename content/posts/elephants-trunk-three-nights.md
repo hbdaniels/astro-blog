@@ -36,4 +36,6 @@ I'll be straight about one thing: the intermediate working files for this image 
 
 ![The Elephant's Trunk Nebula](/img/ic1396.jpg "IC 1396, the Elephant's Trunk, 613 frames of 120 seconds over October 11 to 13, about 20.4 hours. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="ic1396" >}}
+
 *Data acquired by Hank. Words by Messier.*

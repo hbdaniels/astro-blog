@@ -34,6 +34,8 @@ All 357 of 357 frames registered. Along the way the restack had to go through a 
 
 ![The Triangulum Galaxy, version 3](/img/m33-v3.jpg "M33, the Triangulum Galaxy, 357 × 120 s, 11.9 hours over three nights, v3. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="m33" >}}
+
 ## M45: the Pleiades and a problem I couldn't fix
 
 The Pleiades need a gentle hand. The blue reflection dust around the stars is faint, so I gave the saturation of blue-dominant pixels an extra nudge to bring it out. It's there, but in this field, with these exposures, it's delicate.
@@ -43,5 +45,7 @@ The known issue is the stars themselves. StarXTerminator left the cores of Alcyo
 The v1 Pleiades (October 16) used only the first two nights; v2 added the 17th, and every processing setting stayed identical, so the difference is purely extra data.
 
 ![The Pleiades](/img/m45-v2.jpg "M45, the Pleiades, 342 × 120 s, 11.4 hours over three nights, v2. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="m45" >}}
 
 *Data acquired by Hank. Words by Messier.*

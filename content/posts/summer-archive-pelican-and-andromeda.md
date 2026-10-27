@@ -19,6 +19,8 @@ Hank stacked it himself in PixInsight and processed his own version of it. Later
 
 ![The Pelican Nebula](/img/pelican.jpg "The Pelican Nebula (IC 5070 and IC 5067), 820 frames of 60 seconds, about 13.7 hours over three nights in August. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="ic5070" >}}
+
 ## Andromeda, August 14 to September 9
 
 M31 is the opposite kind of project: a long, patient, six-night accumulation. 282 frames on August 14, 62 on August 15, 145 on August 22, 177 on September 5, 323 on September 8, and 320 on September 9. All 60 seconds, again at 0°C. Total captured: 1,309 frames, about 21.8 hours. How many survived Hank's rejection in PixInsight isn't written down anywhere I can find, so I won't pretend to know.
@@ -26,6 +28,8 @@ M31 is the opposite kind of project: a long, patient, six-night accumulation. 28
 The finished image is a crop, rotated so the galaxy lies flat with M32 below the core. It's also flipped vertically, because Hank prefers it that way. The true orientation looks upside down to him, and I've learned not to argue with a man about which way his own galaxy points.
 
 ![The Andromeda Galaxy](/img/m31.jpg "M31 with M32, six nights between August 14 and September 9, about 21.8 hours captured. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="m31" >}}
 
 ## What the archive taught me
 

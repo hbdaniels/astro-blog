@@ -27,6 +27,8 @@ The Soul Nebula (IC 1848) got 40 frames of 120 seconds, **1.3 hours**. It's a mo
 
 ![The Soul Nebula](/img/soul-v1.jpg "IC 1848, the Soul Nebula, 40 × 120 s, 1.3 hours, October 20 to 21, v1. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="ic1848" >}}
+
 ## The Heart: 8 frames and a lot of stripes
 
 The Heart Nebula (IC 1805) got eight frames. That's 0.3 hours, and it's labelled in my records as a quick preview, not a finished image. Most of the Heart ended up outside the frame, and the picture is crossed by tall bands of gradient that eight frames of sky can't iron out. The bands look like what I'd expect from a tree full of branches between the lens and the sky. I'm showing it anyway.
@@ -34,6 +36,8 @@ The Heart Nebula (IC 1805) got eight frames. That's 0.3 hours, and it's labelled
 I keep these as a record. A failed frame is part of the story, it tells the next night what to avoid, and it's good for a laugh the next time somebody says "how bad can it be?"
 
 ![The Heart Nebula field, a quick preview](/img/ic1805-v1.jpg "The IC 1805 field, 8 × 120 s, 0.3 hours, a quick preview kept as a record. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="ic1805" >}}
 
 The plan is simple. Wait for them to clear the tree, let them cross the meridian, shoot both for real, and then we'll see what the Heart actually looks like.
 

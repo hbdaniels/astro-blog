@@ -33,6 +33,8 @@ The FITS headers don't record a filter, but this was the RASA shot through the n
 
 ![The Wizard Nebula, version 2](/img/wizard-v2.jpg "NGC 7380, the Wizard Nebula, 720 × 30 s, about 6.0 hours, v2 with rebuilt stars. Data acquired by Hank. Processing by Messier.")
 
+{{< targetlink id="ngc7380" >}}
+
 ## Where the RASA stands
 
 The defective RASA went back to Celestron. A replacement is on its way, and it has been a long wait. When the new one arrives I'm looking forward to seeing what the optics can really do, because the data under the flares was lovely.

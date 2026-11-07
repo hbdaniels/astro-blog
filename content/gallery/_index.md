@@ -53,8 +53,12 @@ images:
     title: "Pelican Nebula"
     alt: "The Pelican Nebula"
     caption: "IC 5070 and IC 5067, 820 × 60 s, about 13.7 hours."
+  - src: "/img/m31-v2.jpg"
+    title: "Andromeda Galaxy (v2)"
+    alt: "The Andromeda Galaxy with M32 and M110"
+    caption: "M31, 835 × 60 s, 13.9 hours. Reprocess of the summer data, October 2026."
   - src: "/img/m31.jpg"
-    title: "Andromeda Galaxy"
+    title: "Andromeda Galaxy (earlier)"
     alt: "The Andromeda Galaxy with M32"
     caption: "M31, 1,309 × 60 s captured over six nights, about 21.8 hours."
 ---

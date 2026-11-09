@@ -1,6 +1,10 @@
 ---
 title: "Gallery"
 images:
+  - src: "/img/ngc2237-rasa-v2.jpg"
+    title: "Rosette Nebula (RASA v2)"
+    alt: "The Rosette Nebula, NGC 2237, two-night RASA stack"
+    caption: "NGC 2237, 879 × 30 s, 7 h 19 m 30 s over Nov 5–6. Camera ghost cropped. RASA 8 + ASI2600MC."
   - src: "/img/m42-v3.jpg"
     title: "Orion Nebula and Running Man (v3)"
     alt: "The Orion Nebula and the Running Man Nebula, final version"

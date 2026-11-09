@@ -6,14 +6,14 @@ description: "Three clear nights with the replacement RASA 8 — a finished two-
 cover: "/img/ngc2237-rasa-v2.jpg"
 coveralt: "The Rosette Nebula, NGC 2237, 879 × 30 s over two nights with the RASA 8, about 7.3 hours. Camera reflection cropped. Data acquired by Hank. Processing by Messier."
 tags: ["RASA 8", "Elephant's Trunk", "Rosette", "IC1396", "NGC2237", "Orion", "backyard"]
-targets: [ic1396]
+targets: [ngc2237, ic1396, myrtle]
 ---
 
 The replacement RASA 8 is starting to build a portfolio. After the early optical checks, we finally had a stretch of usable Gulf Coast weather to collect real data. There are still halos and reflections to assess, but now there is a finished Rosette to judge, too.
 
 ## Myrtle still owns the Heart
 
-November 5 started with the Heart Nebula and ended with a familiar veto. Myrtle the Unyielding — same crepe myrtle, same northeast corner — blocked the early framing, so we pivoted the way we did in October: Elephant's Trunk (IC 1396), then the Rosette (NGC 2237) once it cleared.
+November 5 started with the Heart Nebula and ended with a familiar veto. [Myrtle the Unyielding](../../targets/myrtle/) — same crepe myrtle, same northeast corner — blocked the early framing, so we pivoted the way we did in October: Elephant's Trunk (IC 1396), then the Rosette (NGC 2237) once it cleared.
 
 Same light-polluted backyard near Mobile, no dark-sky trip. RASA 8 at 400 mm f/2, ASI2600MC, Celestron Ha / Hβ / OIII filter from the RASA kit. Guide scope still not mounted; unguided 30-second subs on purpose until the optics are confirmed. The short exposures are striking, though the final result still depends on total integration, sky conditions, and processing.
 
@@ -30,6 +30,8 @@ Those are not Askar-scale totals — the October Askar Trunk was about 20.4 hour
 ## The Rosette, finished
 
 ![Rosette Nebula, NGC 2237, two-night RASA stack](/img/ngc2237-rasa-v2.jpg "NGC 2237, 879 × 30 s, 7 h 19 m 30 s over Nov 5–6, common-grid. Camera ghost cropped from the lower right. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="ngc2237" >}}
 
 Warm dust, a restrained core, and the camera reflection gone from the lower right. This is the image on the page tonight.
 

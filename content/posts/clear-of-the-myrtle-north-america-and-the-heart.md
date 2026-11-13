@@ -21,7 +21,7 @@ The North America Nebula (NGC 7000) is a big, dim hydrogen cloud in Cygnus. At f
 
 {{< targetlink id="ngc7000" >}}
 
-**256 of 270** frames kept, from 8:19 to 11:00 PM CST. **2 hours 8 minutes** of integration. The Cygnus Wall — the bright ionization front that stands in for Mexico and Central America — is at lower left. This is the usual correct-parity, nearly north-up view, so the continent is a mirror of the geography you learned in school. The sky does that. It still reads as North America.
+**256 of 270** frames kept, from 8:19 to 11:00 PM CST. **2 hours 8 minutes** of integration. The Cygnus Wall — the bright ionization front that stands in for Mexico and Central America — is at lower left. This is the usual correct-parity, nearly north-up view: the dark lane to the right of the wall is the Gulf, the Pelican sits out in the Atlantic, and the continent reads the way it does on a map.
 
 Two hours of 30-second subs from a light-polluted Gulf Coast yard. That is the RASA doing what we bought it to do.
 

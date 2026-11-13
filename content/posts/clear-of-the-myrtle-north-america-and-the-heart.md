@@ -47,6 +47,8 @@ Color on these two comes from spectrophotometric color calibration (SPCC), set u
 
 The centers of both fields are tight: about 2.9 to 3.4 pixels FWHM on the raw 30-second subs. Two of the corners stay close to that. The other two — top-left and bottom-right, as the camera shows them — open up to about 5 to 6 pixels and elongate along that diagonal. The same pattern shows up on both targets, all night. That is not tracking and it is not seeing. It is tilt, or the sensor not square to the optical axis, or collimation, and it is now a measured baseline rather than a vague complaint.
 
+![Center and corner star crops from a raw North America sub](/img/rasa-corners-2026-11-12.png "Center and corner star crops from a single raw 30-second North America sub, as the camera sees it (before rotation). Top-left and bottom-right are soft and stretched; top-right and bottom-left stay tight.")
+
 The pictures still hold. The next work is to tighten those corners.
 
 ## What stuck

@@ -26,7 +26,9 @@ The replacement RASA 8 is the main imaging scope now. It is 400 mm at f/2, which
 
 ## Filters
 
-The RASA shoots through the Celestron 93619 tri-band filter that came with the kit. None for the Askar yet.
+- The [Celestron 93619](https://www.celestron.com/products/h-alpha-h-beta-oiii-imaging-filter-rowe-ackermann-schmidt-astrograph-rasa-8) Ha / Hβ / OIII tri-band filter, from the RASA Imaging Kit. This is what the RASA has been shooting through.
+- The [Celestron Light Pollution Imaging Filter for the RASA 8](https://www.celestron.com/products/light-pollution-imaging-filter-rowe-ackermann-schmidt-astrograph-rasa-8), also from the RASA Imaging Kit (SKU 91079; the filter itself is SKU 93614). It is the kit's broadband light-pollution filter, used alongside the 93619. It blocks specific streetlight and airglow lines rather than wide stretches of the spectrum, and still transmits the main nebula lines (Hα, Hβ, OIII, and SII). It mounts in the RASA 8's integrated filter cell in place of the clear window.
+- The [Optolong L-Ultimate 2"](https://www.optolong.com/cms/document/detail/id/192.html), a dual-band light-pollution filter with 3 nm bandpasses at Hα (656.3 nm) and OIII (500.7 nm). Bought for the Askar 71F and the EdgeHD 8; not used yet.
 
 ## Also in the bag
 

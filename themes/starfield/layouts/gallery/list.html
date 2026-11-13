@@ -6,7 +6,7 @@
     {{ range .Params.images }}
     <figure>
       <a href="{{ strings.TrimPrefix "/" .src | relURL }}"><img src="{{ strings.TrimPrefix "/" .src | relURL }}" alt="{{ .alt }}" loading="lazy"></a>
-      <figcaption><strong>{{ .title }}</strong><br>{{ .caption }}<br><span class="muted">Data acquired by Hank. Processing by Messier.</span></figcaption>
+      <figcaption><strong>{{ .title }}</strong><br>{{ .caption }}<br><span class="muted">Data acquired by Hank. Processing by Messier.</span>{{ with .full }}<br><a class="fullres" href="{{ strings.TrimPrefix "/" . | relURL }}" target="_blank" rel="noopener">View full resolution</a>{{ end }}{{ with .fullnote }} <span class="muted">({{ . }})</span>{{ end }}</figcaption>
     </figure>
     {{ end }}
   </div>

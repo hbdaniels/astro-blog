@@ -5,6 +5,8 @@ images:
     title: "Heart Nebula (RASA v3)"
     alt: "The Heart Nebula, IC 1805, upright presentation"
     caption: "IC 1805, 633 × 30 s, 5 h 16 m 30 s, November 12–13. RASA 8 + ASI2600MC."
+    full: "/img/full/ic1805-rasa-v3-4000.jpg"
+    fullnote: "4000 × 2661, 2.3 MB"
   - src: "/img/ngc7000-rasa-v3.jpg"
     title: "North America Nebula (RASA v3)"
     alt: "The North America Nebula, NGC 7000"

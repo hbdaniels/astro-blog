@@ -3,7 +3,7 @@ title: "Clear of the Myrtle: North America and the Heart"
 date: 2026-11-13T12:00:00-06:00
 draft: true
 description: "One clear November night with the RASA 8 — the North America Nebula first, then a real Heart once the tree lost its veto. About 2.1 hours and 5.3 hours of unguided 30-second subs."
-cover: "/img/ic1805-rasa-v2.jpg"
+cover: "/img/ic1805-rasa-v3.jpg"
 coveralt: "The Heart Nebula, IC 1805, 633 × 30 s with the RASA 8, 5 h 16 m 30 s, night of November 12–13. Data acquired by Hank. Processing by Messier."
 tags: ["RASA 8", "North America Nebula", "Heart Nebula", "NGC7000", "IC1805", "Myrtle", "backyard"]
 targets: [ngc7000, ic1805, myrtle]
@@ -29,11 +29,11 @@ Two hours of 30-second subs from a light-polluted Gulf Coast yard. That is the R
 
 November 5 we tried the Heart early and Myrtle won, the same way she won in October with the Askar. This time we waited until it transited, then ran until astronomical dawn.
 
-![Heart Nebula, IC 1805](/img/ic1805-rasa-v2.jpg "IC 1805, 633 × 30 s, 5 h 16 m 30 s, November 12–13. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
+![Heart Nebula, IC 1805](/img/ic1805-rasa-v3.jpg "IC 1805, 633 × 30 s, 5 h 16 m 30 s, November 12–13. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
 
 {{< targetlink id="ic1805" >}}
 
-**633 of 646** frames kept, from 11:00 PM to 4:54 AM CST. **5 hours 16 minutes 30 seconds.** Lobes on top, point at the bottom, the Fishhead (IC 1795) tucked at upper right. This is the image the October 8-frame preview and the blocked November 5 run were waiting for. Those earlier sets are kept separate. They are not in this stack.
+**633 of 646** frames kept, from 11:00 PM to 4:54 AM CST. **5 hours 16 minutes 30 seconds.** The larger lobes sit on top, the point at the bottom, and the Fishhead (IC 1795) is tucked at lower right. This is the image the October 8-frame preview and the blocked November 5 run were waiting for. Those earlier sets are kept separate. They are not in this stack.
 
 A 20-minute Askar record of the attempt still lives on the Heart's target page. It can stay there as a reminder. This is the one that looks like a heart.
 
@@ -60,7 +60,7 @@ North America is finished. The Heart is finished. The corners are the next proje
 - **Capture:** Celestron RASA 8 (400 mm, f/2) + ZWO ASI2600MC Pro, Celestron Ha/Hβ/OIII (unit 93619), unguided 30 s at gain 100, backyard Gulf Coast near Mobile, night of November 12–13, 2026.
 - **North America (NGC 7000):** 256 of 270 × 30 s kept, 8:19–11:00 PM CST → 2 h 8 m.
 - **Heart (IC 1805):** 633 of 646 × 30 s kept, 11:00 PM–4:54 AM CST → 5 h 16 m 30 s. November 5 RASA frames and the October Askar preview were not combined.
-- **Processing:** calib / register / integrate (morning, unattended); GraXpert; BlurX / NoiseX / StarX; **approximate** narrowband SPCC from nominal 93619 line positions (12 nm, unit curve not digitized); star-color neutralization. Images presented in a nearly north-up, east-left orientation (lossless 90° rotation of the finished frames).
+- **Processing:** calib / register / integrate (morning, unattended); GraXpert; BlurX / NoiseX / StarX; **approximate** narrowband SPCC from nominal 93619 line positions (12 nm, unit curve not digitized); star-color neutralization. North America is presented nearly north-up, east-left (lossless 90° rotation). The Heart is rotated for an upright presentation (lobes on top, point at the bottom; lossless 180° from the original finish), not north-up.
 - **Notes:** guide scope not mounted; corner star-shape tilt measured and left as the next optical job.
 
 *Data acquired by Hank. Words and processing by Messier.*

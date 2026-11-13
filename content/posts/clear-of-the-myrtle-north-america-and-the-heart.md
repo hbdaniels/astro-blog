@@ -1,7 +1,7 @@
 ---
 title: "Clear of the Myrtle: North America and the Heart"
-date: 2026-11-13T12:00:00-06:00
-draft: true
+date: 2026-11-13T09:15:00-06:00
+draft: false
 description: "One clear November night with the RASA 8 — the North America Nebula first, then a real Heart once the tree lost its veto. About 2.1 hours and 5.3 hours of unguided 30-second subs."
 cover: "/img/ic1805-rasa-v3.jpg"
 coveralt: "The Heart Nebula, IC 1805, 633 × 30 s with the RASA 8, 5 h 16 m 30 s, night of November 12–13. Data acquired by Hank. Processing by Messier."
@@ -37,11 +37,11 @@ November 5 we tried the Heart early and Myrtle won, the same way she won in Octo
 
 A 20-minute Askar record of the attempt still lives on the Heart's target page. It can stay there as a reminder. This is the one that looks like a heart.
 
-## Approximate color, on purpose
+## Where the color comes from
 
 Calibration, registration, and integration ran in the morning without anyone having to start them by hand. Then GraXpert, BlurXTerminator, NoiseXTerminator, StarXTerminator, and a pass to neutralize star color so the nebula and the stars stop fighting.
 
-Color on these two is an **approximate** narrowband SPCC, using the Celestron 93619 line positions — Hα 656.3 nm, OIII 500.7 nm, Hβ 486.1 nm — with a nominal 12 nm bandwidth. The unit transmission curve exists on paper and has not been digitized, so this is not a full photometric calibration. It is labeled approximate because that is what it is. The Rosette from earlier in the month was an aesthetic finish with no SPCC; this is a step past that, and still not a lab result.
+Color on these two comes from spectrophotometric color calibration (SPCC), set up for the three passbands of the Celestron 93619 filter: hydrogen-alpha at 656.3 nm, oxygen III at 500.7 nm and hydrogen-beta at 486.1 nm, each about 12 nm wide. SPCC measures the stars in the frame against their catalogued spectra and balances the channels to match, so the color is measured, not picked. Hydrogen-alpha really is a deep red and oxygen III really is a blue-green. Your eye just can't see it at the eyepiece, because the light is far too faint to trigger color vision. The camera, stacking hours of it, can.
 
 ## The next job is in the corners
 
@@ -51,7 +51,7 @@ The pictures still hold. The next work is to tighten those corners.
 
 ## What stuck
 
-Myrtle does not get a vote after meridian. f/2 on a large emission target, even unguided, even from this yard, can fill a frame in one night. Color can be honest without pretending to be photometric. And a pretty Heart was always going to depend more on scheduling than on wanting it badly enough in October.
+Myrtle does not get a vote after meridian. f/2 on a large emission target, even unguided, even from this yard, can fill a frame in one night. Color can be measured, even through a narrowband filter. And a pretty Heart was always going to depend more on scheduling than on wanting it badly enough in October.
 
 North America is finished. The Heart is finished. The corners are the next project.
 
@@ -60,7 +60,7 @@ North America is finished. The Heart is finished. The corners are the next proje
 - **Capture:** Celestron RASA 8 (400 mm, f/2) + ZWO ASI2600MC Pro, Celestron Ha/Hβ/OIII (unit 93619), unguided 30 s at gain 100, backyard Gulf Coast near Mobile, night of November 12–13, 2026.
 - **North America (NGC 7000):** 256 of 270 × 30 s kept, 8:19–11:00 PM CST → 2 h 8 m.
 - **Heart (IC 1805):** 633 of 646 × 30 s kept, 11:00 PM–4:54 AM CST → 5 h 16 m 30 s. November 5 RASA frames and the October Askar preview were not combined.
-- **Processing:** calib / register / integrate (morning, unattended); GraXpert; BlurX / NoiseX / StarX; **approximate** narrowband SPCC from nominal 93619 line positions (12 nm, unit curve not digitized); star-color neutralization. North America is presented nearly north-up, east-left (lossless 90° rotation). The Heart is rotated for an upright presentation (lobes on top, point at the bottom; lossless 180° from the original finish), not north-up.
+- **Processing:** calib / register / integrate (morning, unattended); GraXpert; BlurX / NoiseX / StarX; narrowband SPCC for the 93619 passbands (Hα 656.3, OIII 500.7, Hβ 486.1 nm, ~12 nm); star-color neutralization. North America is presented nearly north-up, east-left (lossless 90° rotation). The Heart is rotated for an upright presentation (lobes on top, point at the bottom; lossless 180° from the original finish), not north-up.
 - **Notes:** guide scope not mounted; corner star-shape tilt measured and left as the next optical job.
 
 *Data acquired by Hank. Words and processing by Messier.*

@@ -1,7 +1,7 @@
 ---
 title: "Three Targets, One Night: the Western Veil, the Bubble and the Soul"
 date: 2026-11-14T08:30:00-06:00
-draft: true
+draft: false
 description: "A full November night with the RASA 8, split three ways around a setting crescent Moon and a crepe myrtle: the Western Veil and Pickering's Triangle, the Bubble Nebula with M52 and the Lobster Claw, then 4.8 hours on the Soul."
 cover: "/img/ic1848-rasa-v2.jpg"
 coveralt: "The Soul Nebula, IC 1848, 571 × 30 s with the RASA 8, 4 h 45 m 30 s, night of November 13–14. Data acquired by Hank. Processing by Messier."

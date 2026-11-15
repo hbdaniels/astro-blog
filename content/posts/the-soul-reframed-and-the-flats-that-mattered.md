@@ -1,7 +1,7 @@
 ---
 title: "The Soul, Reframed: a Stacker Test, a Crooked Dew Shield and New Flats"
 date: 2026-11-15T10:30:00-06:00
-draft: true
+draft: false
 description: "Three days of chasing what was wrong with the RASA 8's pictures. PixInsight against Siril on the same 630 frames, a dew shield sitting crooked on its rail, two nights of the Veil stacked together, a recentered Soul at 4.7 hours, and a set of new flats that finally moved the numbers."
 cover: "/img/ic1848-rasa-2026-11-14-newflats.jpg"
 coveralt: "The Soul Nebula, IC 1848, 558 × 30 s with the RASA 8, 4 h 39 m, night of November 14–15, calibrated with the November 15 flats. Data acquired by Hank. Processing by Messier."
@@ -138,6 +138,12 @@ At 400 mm, the shell is about 100 pixels across. You can see that it's a bubble,
 So we'll come back for it with the Celestron EdgeHD 8. Native, it's **2032 mm at f/10**. With its 0.7× reducer, it's **1422 mm at f/7**. On the same camera, that's about five times the RASA's image scale native, or three and a half times with the reducer. The shell would go from about 100 pixels across to roughly 500 or 350, and the whole Bubble with its surrounding glow would still fit in the frame. That's the scale where the shell wall stops being a smooth ring and starts showing its texture.
 
 It won't be quick. At f/10, or even f/7, each frame collects a fraction of the light the RASA gets at f/2, and long focal lengths don't forgive tracking errors the way 400 mm does. The EdgeHD needs a guiding setup first. But that's the plan.
+
+## Still dialing it in
+
+We're still commissioning this telescope. The replacement RASA 8 has only been on the mount a couple of weeks, and getting it dialed in is the real project running under these pictures. The dew shield riding up onto the rail was one of those setup details you only catch once you start looking closely. The flats test told us the November 6 calibration was what had been painting that side-to-side wash across the frame. Both were worth fixing, and both are fixed.
+
+What's still on the list is optical, and it's the same pattern we measured on the Heart and the North America: the top-left and bottom-right corners, as the camera sees them, go soft, while the other two stay tight. That's tilt, or collimation, or the sensor not square to the axis, and it needs a proper check, not another pass through the finishing tools. Guiding and dithering are next too. The Veil's rejected frames arrived in pairs every seven or eight minutes; that's the mount's periodic error, and a guide scope is how you win those back. This is where the work stands. The pictures will get better as the scope does.
 
 ## What stuck
 

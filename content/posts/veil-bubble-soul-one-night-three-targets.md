@@ -6,7 +6,7 @@ description: "A full November night with the RASA 8, split three ways around a s
 cover: "/img/ic1848-rasa-v2.jpg"
 coveralt: "The Soul Nebula, IC 1848, 571 × 30 s with the RASA 8, 4 h 45 m 30 s, night of November 13–14. Data acquired by Hank. Processing by Messier."
 tags: ["RASA 8", "Veil Nebula", "Bubble Nebula", "Soul Nebula", "NGC6960", "NGC7635", "M52", "IC1848", "Myrtle", "backyard"]
-targets: [ngc6992, ic1848, myrtle]
+targets: [ngc6992, ngc7635, ic1848, myrtle]
 ---
 
 The night after the Heart, the sky stayed clear and Hank left the RASA out. One target would have been the easy choice. We did three.
@@ -38,6 +38,8 @@ The rejects told a story. 38 frames failed, and they failed in pairs, about ever
 ## The Bubble, M52 and the Lobster Claw
 
 ![The Bubble Nebula field with M52 and the Lobster Claw](/img/ngc7635-rasa-v2.jpg "The Bubble Nebula (NGC 7635) with the open cluster M52 above it, the Lobster Claw (Sh2-157) at lower left and NGC 7538 at the bottom edge. 207 × 30 s, 1 h 43 m 30 s, November 13. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="ngc7635" >}}
 
 **207 of 212** frames kept, **1 hour 43 minutes 30 seconds**. The 5 rejects were scattered singles, with no pattern.
 

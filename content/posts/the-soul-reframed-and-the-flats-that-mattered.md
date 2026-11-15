@@ -6,7 +6,7 @@ description: "Three days of chasing what was wrong with the RASA 8's pictures. P
 cover: "/img/ic1848-rasa-2026-11-14-newflats.jpg"
 coveralt: "The Soul Nebula, IC 1848, 558 × 30 s with the RASA 8, 4 h 39 m, night of November 14–15, calibrated with the November 15 flats. Data acquired by Hank. Processing by Messier."
 tags: ["RASA 8", "Soul Nebula", "Bubble Nebula", "Veil Nebula", "IC1848", "NGC7635", "NGC6960", "flats", "Siril", "PixInsight", "backyard"]
-targets: [ic1848, ngc6992]
+targets: [ic1848, ngc7635, ngc6992]
 ---
 
 ![The RASA 8 set up in the yard at dusk](/img/rig-rasa8-dusk-2026-11.jpg "The RASA 8 at dusk: ZWO ASI2600MC Pro on the back, Sky-Watcher EQ6-R Pro underneath, dew shield on the front. This was before we noticed the shield wasn't sitting right.")
@@ -126,6 +126,8 @@ The Bubble ran from 9:05 to 11:14 PM on the 14th, right after the shield was fix
 Here's the nebula around the Bubble, cropped from the full frame:
 
 ![The Bubble Nebula and its surrounding cloud](/img/ngc7635-rasa-2026-11-14-field.jpg "The Bubble Nebula (NGC 7635) in its surrounding hydrogen cloud, with M52 at upper right. 230 × 30 s, 1 h 55 m, November 14, new flats. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
+
+{{< targetlink id="ngc7635" >}}
 
 And here it is tight on the shell itself, at the camera's native resolution with no enlargement:
 

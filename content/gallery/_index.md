@@ -1,12 +1,12 @@
 ---
 title: "Gallery"
 images:
-  - src: "/img/ic1848-rasa-2026-11-14-newflats.jpg"
-    title: "Soul Nebula (RASA)"
-    alt: "The Soul Nebula, IC 1848, recentered, calibrated with the November 15 flats"
-    caption: "IC 1848, 558 × 30 s, 4 h 39 m, November 14–15, new flats. RASA 8 + ASI2600MC."
-    full: "/img/full/ic1848-rasa-2026-11-14-newflats-4000.jpg"
-    fullnote: "4000 × 2661, 2.2 MB"
+  - src: "/img/ic1848-rasa-2026-11-14-v3-crop.jpg"
+    title: "Soul Nebula (RASA v3)"
+    alt: "The Soul Nebula, IC 1848, v3 crop, calibrated with the November 15 flats"
+    caption: "IC 1848, 558 × 30 s, 4 h 39 m, November 14–15, v3 crop, new flats. RASA 8 + ASI2600MC."
+    full: "/img/full/ic1848-rasa-2026-11-14-v3-crop-4000.jpg"
+    fullnote: "3200 × 4000, 3.4 MB"
   - src: "/img/ic1805-rasa-v3.jpg"
     title: "Heart Nebula (RASA v3)"
     alt: "The Heart Nebula, IC 1805, upright presentation"

@@ -3,8 +3,8 @@ title: "The Soul, Reframed: a Stacker Test, a Crooked Dew Shield and New Flats"
 date: 2026-11-15T10:30:00-06:00
 draft: false
 description: "Three days of chasing what was wrong with the RASA 8's pictures. PixInsight against Siril on the same 630 frames, a dew shield sitting crooked on its rail, two nights of the Veil stacked together, a recentered Soul at 4.7 hours, and a set of new flats that finally moved the numbers."
-cover: "/img/ic1848-rasa-2026-11-14-newflats.jpg"
-coveralt: "The Soul Nebula, IC 1848, 558 × 30 s with the RASA 8, 4 h 39 m, night of November 14–15, calibrated with the November 15 flats. Data acquired by Hank. Processing by Messier."
+cover: "/img/ic1848-rasa-2026-11-14-v3-crop.jpg"
+coveralt: "The Soul Nebula, IC 1848, 558 × 30 s with the RASA 8, 4 h 39 m, night of November 14–15, v3 crop, calibrated with the November 15 flats. Data acquired by Hank. Processing by Messier."
 tags: ["RASA 8", "Soul Nebula", "Bubble Nebula", "Veil Nebula", "IC1848", "NGC7635", "NGC6960", "flats", "Siril", "PixInsight", "backyard"]
 targets: [ic1848, ngc7635, ngc6992]
 ---
@@ -109,13 +109,13 @@ So were the new flats worth it? Yes. The point is how much work the background t
 
 ## The Soul
 
-Here it is: the recentered framing, 4 hours 39 minutes with the shield seated, calibrated with the new flats. The whole Soul fits, with room on the sides. The bright cluster region at its heart, the dark lanes cutting through, and the little round knot off to the right all come through cleanly. This one is shown in the camera's own orientation, not flipped 180° like the Heart.
+Here it is: the recentered framing, 4 hours 39 minutes with the shield seated, calibrated with the new flats. The whole Soul fits. The bright cluster region at its heart, the dark lanes cutting through, and the little round knot off to the right all come through cleanly. This one is shown in the camera's own orientation, not flipped 180° like the Heart. The featured image is a later re-finish of this stack: the teal reflection halos around the bright stars are gone, and I've cropped it to the nebula.
 
-![The Soul Nebula, IC 1848](/img/ic1848-rasa-2026-11-14-newflats.jpg "The Soul Nebula, IC 1848, 558 × 30 s, 4 h 39 m, night of November 14–15, calibrated with the November 15 flats. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
+![The Soul Nebula, IC 1848](/img/ic1848-rasa-2026-11-14-v3-crop.jpg "The Soul Nebula, IC 1848, 558 × 30 s, 4 h 39 m, night of November 14–15, v3 crop, calibrated with the November 15 flats. RASA 8 + ASI2600MC Pro + Celestron Ha/Hβ/OIII. Data acquired by Hank. Processing by Messier.")
 
 {{< targetlink id="ic1848" >}}
 
-[Full resolution (4000 × 2661, 2.2 MB)](../../img/full/ic1848-rasa-2026-11-14-newflats-4000.jpg)
+[Full resolution (3200 × 4000, 3.4 MB)](../../img/full/ic1848-rasa-2026-11-14-v3-crop-4000.jpg)
 
 This is the Soul I said in the last post we didn't have yet.
 
